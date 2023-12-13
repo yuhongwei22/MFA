@@ -6,7 +6,7 @@
 
 
 
-**Step Vulnerability Guided Mean Fluctuation Adversarial Attack  against Conditional Diffusion Models
+**Step Vulnerability Guided Mean Fluctuation Adversarial Attack  against Conditional Diffusion Models<br />
 [Hongwei Yu](https://scholar.google.com.hk/citations?user=cDidt64AAAAJ&hl=zh-CN) Xinglong Ding**
 <br/>
 
