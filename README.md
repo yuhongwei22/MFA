@@ -68,9 +68,11 @@ python scripts/SuperResolution.py --indir adversarial_demo/superresolution
 ```
 
 
-## Coming Soon...
-
+## Inpainting Attack Code
 * The code of generating adversarial examples.
+```
+python attack/MFA_Inpainting.py --indir adversarial_samples/ --outdir outputs/inpainting_attack_results --sample_type target
+```
 
 ## Comments 
 
